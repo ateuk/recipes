@@ -10,3 +10,5 @@
 
 - [Dijon baked salmon](2021-08-20-dijon-baked-salmon.md)
 - [Zucchini prosciutto egg muffins](2021-08-20-zucchini-prosciutto-egg-muffins.md)
+- [Zucchini flan](2021-08-20-flan-de-courgettes.md)
+- [Tuna tart](2021-08-20-tuna-tart.md)
