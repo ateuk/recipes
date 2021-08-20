@@ -1,8 +1,3 @@
----
-layout: post
-title: Cucumber with tuna mayo
----
-
 # Cucumber with tuna mayo
 
 # Ingredients
