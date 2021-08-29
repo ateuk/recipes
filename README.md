@@ -5,6 +5,10 @@
 - [Cucumber tuna/mayo](2021-08-20-cucumber-tuna.md)
 - [Broccoli salad](2021-08-20-broccoli-salad.md)
 - [Mozzarella and Basil Stuffed Tomatoes](2021-08-20-mozzarella-stuffed-tomatoes.md)
+- [Aubergine & pomegranate salad](2021-08-29-aubergine-pomegranate-salad.md)
+- [Burrata and Grilled Peaches](2021-08-29-burrata-grilled-peaches.md)
+- [Basil zucchini soup](2021-08-30-basil-zucchini-soup.md)
+- [Zesty Lime Shrimp and Avocado Salad](2021-08-30-zesty-lime-shrimp-avocado-salad.md)
 
 ## Main
 
