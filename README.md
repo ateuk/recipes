@@ -14,6 +14,7 @@
 ## Main
 
 - [Dijon baked salmon](2021-08-20-dijon-baked-salmon.md)
+- [Brussel sprouts & smoked bacon](2021-09-11-brussel-sprouts-bacon.md)
 - [Zucchini prosciutto egg muffins](2021-08-20-zucchini-prosciutto-egg-muffins.md)
 - [Zucchini flan](2021-08-20-flan-de-courgettes.md)
 - [Tuna tart](2021-08-20-tuna-tart.md)
@@ -27,6 +28,8 @@
 - [Poulet aux noix de cajou](2021-09-11-poulet-noix-cajou.md)
 - [Tomates farcies](2021-09-11-tomates-farcies.md)
 - [Five speice beef & broccoli](2021-09-11-five-spice-beef.md)
+- [Carrots & smoked paprika](2021-09-11-carrots-paprika.md) 
+
 
 ## Desserts
 
