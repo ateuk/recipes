@@ -9,7 +9,7 @@
 - [Burrata and Grilled Peaches](2021-08-29-burrata-grilled-peaches.md)
 - [Basil zucchini soup](2021-08-30-basil-zucchini-soup.md)
 - [Zesty Lime Shrimp and Avocado Salad](2021-08-30-zesty-lime-shrimp-avocado-salad.md)
-- [Tofu and tomato salad](2021-09-07-tofu-tomatoes.md))
+- [Tofu and tomato salad](2021-09-07-tofu-tomatoes.md)
 
 ## Main
 
@@ -21,3 +21,10 @@
 - [Souffle au comte](2021-08-22-comte-souffle.md)
 - [Tomato & onions roast](2021-08-22-tomato-onion.md)
 - [Courgettes and rice gratin](2021-09-07-courgettes-rice-gratin.md)
+- [Aubergine & coriander](2021-09-11-aubergine-coriander.md)
+- [Green beans & peanuts](2021-09-11-green-beans-peanuts.md)
+
+## Desserts
+
+- [Apple cake](2021-09-11-apple-cake.md)
+- [Banana bread](2021-09-11-banana-bread.md)
