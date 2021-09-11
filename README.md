@@ -29,7 +29,9 @@
 - [Tomates farcies](2021-09-11-tomates-farcies.md)
 - [Five speice beef & broccoli](2021-09-11-five-spice-beef.md)
 - [Carrots & smoked paprika](2021-09-11-carrots-paprika.md) 
-
+- [Pasta - chorizo & aubergine](2021-09-11-chorizo-pasta.md)
+- [Croquettes de chou-fleur](2021-09-11-croquettes-chou-fleur.md)
+- [Pasta - asparagus & orange](2021-09-11-orange-pasta.md) 
 
 ## Desserts
 
