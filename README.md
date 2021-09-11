@@ -23,6 +23,10 @@
 - [Courgettes and rice gratin](2021-09-07-courgettes-rice-gratin.md)
 - [Aubergine & coriander](2021-09-11-aubergine-coriander.md)
 - [Green beans & peanuts](2021-09-11-green-beans-peanuts.md)
+- [Beef & onions](2021-09-11-beef-onions.md)
+- [Poulet aux noix de cajou](2021-09-11-poulet-noix-cajou.md)
+- [Tomates farcies](2021-09-11-tomates-farcies.md)
+- [Five speice beef & broccoli](2021-09-11-five-spice-beef.md)
 
 ## Desserts
 

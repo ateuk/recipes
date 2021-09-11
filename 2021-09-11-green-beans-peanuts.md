@@ -8,6 +8,8 @@
 - 400g green bean
 
 ## Steps
+- Cuire haricots verts pour 15 min.
+- Faire fondre le beurre de cacuhetes et mix avec soja. Cocasse cacahuetes… done
 - Enjoy!
 
 ## Source
