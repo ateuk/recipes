@@ -10,6 +10,7 @@
 - [Mozzarella and Basil Stuffed Tomatoes](2021-08-20-mozzarella-stuffed-tomatoes.md)
 - [Tofu and tomato salad](2021-09-07-tofu-tomatoes.md)
 - [Zesty Lime Shrimp and Avocado Salad](2021-08-30-zesty-lime-shrimp-avocado-salad.md)
+- [Carrotes rapees](2021-09-15-carrotes-rapees.md)
 
 ## Main
 
