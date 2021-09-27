@@ -34,6 +34,9 @@
 - [Tuna tart](2021-08-20-tuna-tart.md)
 - [Zucchini flan](2021-08-20-flan-de-courgettes.md)
 - [Zucchini prosciutto egg muffins](2021-08-20-zucchini-prosciutto-egg-muffins.md)
+- [Fried Aubergine With Black Pepper And Miso](2021-09-21-fried-aubergine.md)
+- [Tomato egg](2021-09-21-egg-tomato.md)
+- [Gratin de pomme de terre au lait](2021-09-21-gratin-pomme-de-terre.md)
 
 ## Desserts
 
