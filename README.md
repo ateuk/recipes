@@ -20,6 +20,7 @@
 - [Brussel sprouts & smoked bacon](2021-09-11-brussel-sprouts-bacon.md)
 - [Cabbage with bacon & onions](2021-09-28-cabbage-bacon.md) 
 - [Carrots & smoked paprika](2021-09-11-carrots-paprika.md) 
+- [Coco & curry soup with shrimps](2021-12-29-curry-coco-shrimps.md) 
 - [Courgettes and rice gratin](2021-09-07-courgettes-rice-gratin.md)
 - [Croquettes de chou-fleur](2021-09-11-croquettes-chou-fleur.md)
 - [Dijon baked salmon](2021-08-20-dijon-baked-salmon.md)
