@@ -28,6 +28,7 @@
 - [Fried Aubergine With Black Pepper And Miso](2021-09-21-fried-aubergine.md)
 - [Gratin de pomme de terre au lait](2021-09-21-gratin-pomme-de-terre.md)
 - [Green beans & peanuts](2021-09-11-green-beans-peanuts.md)
+- [Lentil soup](2022-01-08-lentil-soup.md)
 - [Onion tart](2021-08-21-onion-tart.md)
 - [Pasta - asparagus & orange](2021-09-11-orange-pasta.md) 
 - [Pasta - chorizo & aubergine](2021-09-11-chorizo-pasta.md)
