@@ -22,6 +22,7 @@
 - [Carrots & smoked paprika](2021-09-11-carrots-paprika.md) 
 - [Coco & curry soup with shrimps](2021-12-29-curry-coco-shrimps.md) 
 - [Courgettes and rice gratin](2021-09-07-courgettes-rice-gratin.md)
+- [Creamy tomato butter beans](2022-01-15-creamy-tomato-butter-beans.md)
 - [Croquettes de chou-fleur](2021-09-11-croquettes-chou-fleur.md)
 - [Dijon baked salmon](2021-08-20-dijon-baked-salmon.md)
 - [Five speice beef & broccoli](2021-09-11-five-spice-beef.md)
