@@ -37,6 +37,7 @@
 - [Quiche sans pate](2021-09-28-quiche-sans-pate.md)
 - [Poulet aux noix de cajou](2021-09-11-poulet-noix-cajou.md)
 - [Sauteed potatoes and mushrooms](2021-09-28-potatoes-mushroom.md)
+- [Sticky sesame beef](2022-02-19-sticky-sesame-beef.md)
 - [Souffle au comte](2021-08-22-comte-souffle.md)
 - [Tomates farcies](2021-09-11-tomates-farcies.md)
 - [Tomato & onions roast](2021-08-22-tomato-onion.md)
