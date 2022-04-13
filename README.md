@@ -29,6 +29,7 @@
 - [Gratin de pomme de terre au lait](2021-09-21-gratin-pomme-de-terre.md)
 - [Green beans & peanuts](2021-09-11-green-beans-peanuts.md)
 - [Lentil soup](2022-01-08-lentil-soup.md)
+- [Leek & curry](2022-04-14-leek-curry.md)
 - [Onion tart](2021-08-21-onion-tart.md)
 - [Pasta - asparagus & orange](2021-09-11-orange-pasta.md) 
 - [Pasta - chorizo & aubergine](2021-09-11-chorizo-pasta.md)
