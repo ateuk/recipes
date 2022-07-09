@@ -11,6 +11,7 @@
 - [Mozzarella and Basil Stuffed Tomatoes](2021-08-20-mozzarella-stuffed-tomatoes.md)
 - [Tofu and tomato salad](2021-09-07-tofu-tomatoes.md)
 - [Zesty Lime Shrimp and Avocado Salad](2021-08-30-zesty-lime-shrimp-avocado-salad.md)
+- [Shakshouka](2022-07-09-shakshouka.md)
 
 ## Main
 
@@ -51,3 +52,7 @@
 
 - [Apple cake](2021-09-11-apple-cake.md)
 - [Banana bread](2021-09-11-banana-bread.md)
+
+## Bread
+
+- [Pitta bread](2022-07-09-pitta-bread.md)
