@@ -9,9 +9,9 @@
 - [Carrotes rapees](2021-09-15-carrotes-rapees.md)
 - [Cucumber tuna/mayo](2021-08-20-cucumber-tuna.md)
 - [Mozzarella and Basil Stuffed Tomatoes](2021-08-20-mozzarella-stuffed-tomatoes.md)
+- [Shakshouka](2022-07-09-shakshouka.md)
 - [Tofu and tomato salad](2021-09-07-tofu-tomatoes.md)
 - [Zesty Lime Shrimp and Avocado Salad](2021-08-30-zesty-lime-shrimp-avocado-salad.md)
-- [Shakshouka](2022-07-09-shakshouka.md)
 
 ## Main
 
@@ -38,6 +38,7 @@
 - [Pasta - chorizo & aubergine](2021-09-11-chorizo-pasta.md)
 - [Quiche sans pate](2021-09-28-quiche-sans-pate.md)
 - [Poulet aux noix de cajou](2021-09-11-poulet-noix-cajou.md)
+- [Roasted cauliflower with tahini dressing](2022-07-09-roasted-cauliflower.md)
 - [Sauteed potatoes and mushrooms](2021-09-28-potatoes-mushroom.md)
 - [Sticky sesame beef](2022-02-19-sticky-sesame-beef.md)
 - [Souffle au comte](2021-08-22-comte-souffle.md)
